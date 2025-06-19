@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="Logo.jpg" alt="Logo Cronixis" width="400">
+</p>
+
+
 # Resumen del Proyecto
 
 Este proyecto ha sido desarrollado como parte de la tarea final para la asignatura **Soluciones Informáticas para la Empresa** del Grado en Ingeniería Informática de la UCAM. El objetivo principal ha sido la creación de una tienda online completamente funcional utilizando un CMS de código abierto y un dominio propio, ofreciendo una experiencia de compra realista, profesional y técnicamente completa.
