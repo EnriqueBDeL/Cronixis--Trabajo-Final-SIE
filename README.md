@@ -2,18 +2,20 @@
   <img src="Logo.jpg" alt="Logo Cronixis" width="400">
 </p>
 
-# 🛒 Proyecto eCommerce UCAM
+<br>
+
+# Resumen del Proyecto
 
 Este proyecto ha sido desarrollado como parte de la tarea final para la asignatura **Soluciones Informáticas para la Empresa** del **Grado en Ingeniería Informática de la UCAM**.  
 El objetivo principal ha sido la creación de una tienda online completamente funcional utilizando un **CMS de código abierto** y un **dominio propio**, ofreciendo una experiencia de compra realista, profesional y técnicamente completa.
 
-💡 Para el registro del dominio y la gestión del hosting se ha utilizado el servicio de **DonDominio**, que ha permitido desplegar el sitio web en un entorno fiable y accesible.
+>💡 Para el registro del dominio y la gestión del hosting se ha utilizado el servicio de **DonDominio**, que ha permitido desplegar el sitio web en un entorno fiable y accesible.
 
 La tienda electrónica ofrece productos físicos y permite al usuario completar el proceso de compra desde el catálogo hasta el pago, cumpliendo con los requisitos de navegación, registro, gestión de carrito, impuestos, gastos de envío y medios de pago.
 
----
+<br>
 
-## 🔧 Desarrollo
+# Desarrollo
 
 ### 🛍️ Catálogo de Productos
 - Creación de 8 productos:
@@ -45,20 +47,23 @@ La tienda electrónica ofrece productos físicos y permite al usuario completar 
 - Alta y verificación del sitio en:
   - **Google Search Console**
   - **Google Analytics**
----
 
-## ✅ Conclusión
+<br>
+
+# Conclusión
 
 Este trabajo ha permitido aplicar los conocimientos adquiridos sobre **CMS, diseño web, posicionamiento SEO y analítica digital**, logrando una tienda online funcional y realista.  
 Demuestra nuestra capacidad para lanzar un proyecto eCommerce completo desde cero, con enfoque tanto técnico como estratégico.
 
----
+<br>
 
 > [!NOTE]
 > **Repositorio parcial**  
 > Este repositorio **no contiene el proyecto completo**.  
 > Debido a varios errores durante el proceso de exportación, **solo se incluye la parte visual en HTML de la tienda online**.  
 > La implementación completa en el CMS (base de datos, configuraciones y funcionalidades) se realizó en un entorno en línea y **no ha podido ser añadida aquí**.
+
+<br>
 
 ---
 
